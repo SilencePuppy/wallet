@@ -1,2 +1,2 @@
-# wallet
+# StreamApp
 Created with CodeSandbox
